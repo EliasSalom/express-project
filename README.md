@@ -11,12 +11,13 @@ for more info please visit the [wiki](https://github.com/EliasSalom/express-proj
     npm install jsonwebtoken
     npm install pg
     npm install cookie-parser
+    npm install nodemailer
 ```
 
 ### installition
 > just copy the code and past it in the terminal
 ```sh
     npm init -y
-    npm install express jsonwebtoken pg cookie-parser
+    npm install express jsonwebtoken pg cookie-parser nodemailer
     npm install -D nodemon
 ```
