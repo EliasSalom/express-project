@@ -4,6 +4,15 @@ for more info please visit the [wiki](https://github.com/EliasSalom/express-proj
 
 ### npm package
 > this all the npm package that been used in this project
+- express
+- nodemon
+- jsonwebtoken
+- pg
+- cookie-parser
+- nodemailer
+- dotenv
+
+### installition
 ```sh
     npm init -y
     npm install express
@@ -12,12 +21,11 @@ for more info please visit the [wiki](https://github.com/EliasSalom/express-proj
     npm install pg
     npm install cookie-parser
     npm install nodemailer
+    npm install dotenv
 ```
-
-### installition
 > just copy the code and past it in the terminal
 ```sh
     npm init -y
-    npm install express jsonwebtoken pg cookie-parser nodemailer
+    npm install express jsonwebtoken pg cookie-parser nodemailer dotenv
     npm install -D nodemon
 ```
